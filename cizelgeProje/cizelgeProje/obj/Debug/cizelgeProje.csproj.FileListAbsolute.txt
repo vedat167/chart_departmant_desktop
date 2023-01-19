@@ -1,0 +1,50 @@
+C:\Users\Vedat\Desktop\cizelgeProje\cizelgeProje\bin\Debug\cizelgeProje.exe.config
+C:\Users\Vedat\Desktop\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.exe
+C:\Users\Vedat\Desktop\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.pdb
+C:\Users\Vedat\Desktop\C# Örnek Projeler\Login İşlemi\cizelgeProje\cizelgeProje\bin\Debug\cizelgeProje.exe.config
+C:\Users\Vedat\Desktop\C# Örnek Projeler\Login İşlemi\cizelgeProje\cizelgeProje\bin\Debug\cizelgeProje.exe
+C:\Users\Vedat\Desktop\C# Örnek Projeler\Login İşlemi\cizelgeProje\cizelgeProje\bin\Debug\cizelgeProje.pdb
+C:\Users\Vedat\Desktop\C# Örnek Projeler\Login İşlemi\cizelgeProje\cizelgeProje\bin\Debug\EntityFramework.dll
+C:\Users\Vedat\Desktop\C# Örnek Projeler\Login İşlemi\cizelgeProje\cizelgeProje\bin\Debug\EntityFramework.xml
+C:\Users\Vedat\Desktop\C# Örnek Projeler\Login İşlemi\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csproj.ResolveComReference.cache
+C:\Users\Vedat\Desktop\C# Örnek Projeler\Login İşlemi\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.Main.resources
+C:\Users\Vedat\Desktop\C# Örnek Projeler\Login İşlemi\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.Properties.Resources.resources
+C:\Users\Vedat\Desktop\C# Örnek Projeler\Login İşlemi\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csproj.GenerateResource.Cache
+C:\Users\Vedat\Desktop\C# Örnek Projeler\Login İşlemi\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.exe
+C:\Users\Vedat\Desktop\C# Örnek Projeler\Login İşlemi\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.pdb
+C:\Users\acelik\Desktop\cizelgeProje\cizelgeProje\bin\Debug\cizelgeProje.exe.config
+C:\Users\acelik\Desktop\cizelgeProje\cizelgeProje\bin\Debug\cizelgeProje.exe
+C:\Users\acelik\Desktop\cizelgeProje\cizelgeProje\bin\Debug\cizelgeProje.pdb
+C:\Users\acelik\Desktop\cizelgeProje\cizelgeProje\bin\Debug\EntityFramework.dll
+C:\Users\acelik\Desktop\cizelgeProje\cizelgeProje\bin\Debug\EntityFramework.xml
+C:\Users\acelik\Desktop\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csprojAssemblyReference.cache
+C:\Users\acelik\Desktop\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csproj.ResolveComReference.cache
+C:\Users\acelik\Desktop\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.Main.resources
+C:\Users\acelik\Desktop\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.Properties.Resources.resources
+C:\Users\acelik\Desktop\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csproj.GenerateResource.cache
+C:\Users\acelik\Desktop\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csproj.CoreCompileInputs.cache
+C:\Users\acelik\Desktop\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csproj.CopyComplete
+C:\Users\acelik\Desktop\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.exe
+C:\Users\acelik\Desktop\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.pdb
+C:\Users\vozturk\Desktop\projeler\cizelgeProje\cizelgeProje\bin\Debug\cizelgeProje.exe.config
+C:\Users\vozturk\Desktop\projeler\cizelgeProje\cizelgeProje\bin\Debug\cizelgeProje.exe
+C:\Users\vozturk\Desktop\projeler\cizelgeProje\cizelgeProje\bin\Debug\cizelgeProje.pdb
+C:\Users\vozturk\Desktop\projeler\cizelgeProje\cizelgeProje\bin\Debug\EntityFramework.dll
+C:\Users\vozturk\Desktop\projeler\cizelgeProje\cizelgeProje\bin\Debug\EntityFramework.xml
+C:\Users\vozturk\Desktop\projeler\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csprojAssemblyReference.cache
+C:\Users\vozturk\Desktop\projeler\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csproj.ResolveComReference.cache
+C:\Users\vozturk\Desktop\projeler\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.Main.resources
+C:\Users\vozturk\Desktop\projeler\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.Properties.Resources.resources
+C:\Users\vozturk\Desktop\projeler\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csproj.GenerateResource.cache
+C:\Users\vozturk\Desktop\projeler\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csproj.CoreCompileInputs.cache
+C:\Users\vozturk\Desktop\projeler\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csproj.CopyComplete
+C:\Users\vozturk\Desktop\projeler\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.exe
+C:\Users\vozturk\Desktop\projeler\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.pdb
+C:\Users\voztu\Desktop\Projeler\cizelgeProje\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csprojAssemblyReference.cache
+C:\Users\voztu\Desktop\Projeler\cizelgeProje\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csproj.ResolveComReference.cache
+C:\Users\voztu\Desktop\Projeler\cizelgeProje\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.Main.resources
+C:\Users\voztu\Desktop\Projeler\cizelgeProje\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.Properties.Resources.resources
+C:\Users\voztu\Desktop\Projeler\cizelgeProje\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csproj.GenerateResource.cache
+C:\Users\voztu\Desktop\Projeler\cizelgeProje\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.csproj.CoreCompileInputs.cache
+C:\Users\voztu\Desktop\Projeler\cizelgeProje\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.exe
+C:\Users\voztu\Desktop\Projeler\cizelgeProje\cizelgeProje\cizelgeProje\obj\Debug\cizelgeProje.pdb
